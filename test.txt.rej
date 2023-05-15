@@ -1,0 +1,6 @@
+diff a/test.txt b/test.txt	(rejected hunks)
+@@ -1 +1,2 @@
+\ No newline at end of file
+ test test test
++Diese Datei wurde verändet!
+\ No newline at end of file
